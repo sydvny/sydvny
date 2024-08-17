@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sydney
 - 👀 I’m interested in cats and coding
 - 🌱 I’m currently learning C# and Unity
+- 📬 Contact me at: sydvnyy on Discord.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: A capybara can weigh up to 175 pounds
 
